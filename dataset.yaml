@@ -1,0 +1,12 @@
+# Dataset root directory
+path: C:\Users\nicho\YOLO\dataset
+
+# Train/val/test sets: specify directories, *.txt files, or lists
+train: images/train # images for training
+val: images/val # images for validation
+
+
+# Classes
+names:
+    0: badguys
+    1: vehicles
